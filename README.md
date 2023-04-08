@@ -16,4 +16,8 @@
     </a>
 </p>
 
-*Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js)
+<h2 align="center"> 🍁  QR CODE  🍁
+</h2>
+<h2 align="center">  <a href="https://loukibllise-qr-scanner.broken0007.repl.co/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+</a>
+</h2>
