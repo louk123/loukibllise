@@ -16,4 +16,4 @@
     </a>
 </p>
 
-* Scan QR In Your Whatsapp From [here](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js
+* Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js
