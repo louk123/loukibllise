@@ -18,6 +18,6 @@
 
 <h2 align="center"> 🍁  QR CODE  🍁
 </h2>
-<h2 align="center">  <a href="https://loukibllise-qr-scanner.broken0007.repl.co/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="center">  <a href="https://louk123-qr-scanner.broken0007.repl.co/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
