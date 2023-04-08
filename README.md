@@ -16,8 +16,11 @@
     </a>
 </p>
 
-<h2 align="center"> 🍁  QR CODE  🍁
-</h2>
-<h2 align="center">  <a href="https://louk123-qr-scanner.broken0007.repl.co/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
-</a>
-</h2>
+
+### SCAN QR CODE
+
+<p align="center">
+<a href="https://anyaqr.jetus-hack.repl.co/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" />
+</div>
+<p align="center">
+</p>
