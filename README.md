@@ -21,3 +21,8 @@
 
 
 ## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+
+
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/louk123/loukibllise)](https://repl.it/github/louk123/loukibllise)
