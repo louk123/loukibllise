@@ -14,7 +14,7 @@ import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
-say('louk BOT', {
+say('SHANO BOT', {
   font: 'simple3d',
   align: 'center',
   gradient: ['red', 'magenta']
