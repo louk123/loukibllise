@@ -4,8 +4,8 @@ import { fileURLToPath } from 'url'
 import path from 'path'
 
 const owner = [
-  ['6282140373458'],
-  ['62895336282144', 'owner', true ]
+  ['212661809542'],
+  ['212661809542', 'owner', true ]
 ] // Put your number here
 const mods = [] // Want some help?
 const prems = [] // Premium user has unlimited limit
@@ -41,9 +41,9 @@ const APIKeys = { // APIKey Here
 const API = (name, path = '/', query = {}, apikeyqueryname) => (name in APIs ? APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({ ...query, ...(apikeyqueryname ? { [apikeyqueryname]: APIKeys[name in APIs ? APIs[name] : name] } : {}) })) : '')
 
 // Sticker WM
-const packname = '@Shano-Bot'
-const author = 'The.sad.boy01'
-const wm = '© The.sad.boy01'
+const packname = '𝙈𝙀𝙀4🐋 𝐒𝐮𝐩𝐩𝐨𝐫𝐭'
+const author = 'by: @/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹'
+const wm = '@/ابـلـيـس الـمـلـڪـي🤴🏻⃟⃢🌹'
 
 const multiplier = 1000 // The higher, The harder levelup
 
