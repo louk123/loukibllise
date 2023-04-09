@@ -19,3 +19,6 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/louk123/loukibllise&branch=master&name=mysticbot)
   
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/louk123/loukibllise)](https://repl.it/github/louk123/loukibllise)
