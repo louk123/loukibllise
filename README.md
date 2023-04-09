@@ -18,3 +18,6 @@
     <img src="https://www.herokucdn.com/deploy/button.png" width="400px" alt="Deploy on Heroku" >
     </a>
 </p>
+
+
+## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
