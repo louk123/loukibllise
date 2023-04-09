@@ -26,9 +26,9 @@
         "MD-Esm",
         "baileys-md"
     ],
-    "homepage": "https://github.com/louk123",
+    "homepage": "https://github.com/Kangsad01",
     "author": {
-        "name": "louk123"
+        "name": "Kangsad01"
     },
     "repository": {
         "type": "git",
@@ -109,3 +109,4 @@
         "zs-extract": "^1.4.1"
     }
 }
+
