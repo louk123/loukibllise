@@ -15,7 +15,7 @@
 
 <p align="center" >
     <a href="https://heroku.com/deploy?template=https://github.com/louk123/loukibllise">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="400px" alt="Deploy on Heroku" >
+    <img src="https://www.herokucdn.com/deploy/button.png" width="150px" alt="Deploy on Heroku" >
     </a>
 </p>
 
