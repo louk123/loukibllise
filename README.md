@@ -22,3 +22,9 @@
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
 [![Run on Repl.it](https://repl.it/badge/github/louk123/loukibllise)](https://repl.it/github/louk123/loukibllise)
+
+<h2 align="center"> 🍁  QR CODE  🍁
+</h2>
+<h2 align="center">  <a href="https://a17-qr-scanner.broken0007.repl.co/"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+</a>
+</h2>
