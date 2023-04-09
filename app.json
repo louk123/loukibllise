@@ -1,8 +1,8 @@
 {
-  "name": "louk-Bot",
-  "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
-  "repository": "https://github.com/louk123/loukibllise-Bot",
-  "logo": "https://wallpapercave.com/wp/wp10524580.jpg",
+  "name": "loukibllise",
+  "description": "WhatsApp MD bot build with nodejs",
+  "repository": "https://github.com/louk123/loukibllise",
+  "logo": "https://telegra.ph/file/e32f2506eb717c6008cab.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
@@ -18,7 +18,7 @@
    "formation": {
         "worker": {
             "quantity": 1,
-            "size": "eco"
+            "size": "free"
         }
     }
 }
