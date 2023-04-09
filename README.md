@@ -19,4 +19,7 @@
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/louk123/loukibllise&branch=master&name=mysticbot)
   
+### `—◉ 🔰 ACTIVAR EN RENDER 🔰`
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Flouk123%2Floukibllise) 
 
